@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GroKioskApp</string>
+
+    <!-- Device Administrator Strings -->
+    <string name="device_admin_label">Kiosk Mode Administrator</string>
+    <string name="device_admin_description">Enables kiosk mode functionality for this application, restricting the device to a single app experience.</string>
+</resources>
